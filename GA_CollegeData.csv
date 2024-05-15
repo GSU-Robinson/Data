@@ -1,0 +1,105 @@
+INSTNM,ADM_RATE,SAT_AVG,TUITIONFEE_IN,TUITIONFEE_OUT,PFTFAC,PCTPELL,GRAD_DEBT_MDN,WDRAW_DEBT_MDN,PCT_WHITE,PCT_BLACK,PCT_ASIAN,PCT_HISPANIC
+Altierus Career College-Norcross,,,15594,15594,1,0.7416,8898,4486,47.16,23.58,6.47,32.64
+American InterContinental University-Atlanta,,,12692,12692,,0.7957,32501,7638,68.5,19.25,3.19,13.09
+Atlanta Metropolitan State College,,,3505,10131,0.6479,0.6188,13220,5500,29.37,64.01,2.26,5.4
+Aviation Institute of Maintenance-Atlanta,,,16657,16657,,0.2069,31288,8750,60.5,32.38,2.64,5.85
+Cambridge College of Healthcare & Technology,,,14908,14908,,,27250,7860,,,,
+Columbia College - Fort Stewart,,,8112,8112,,,24000,10034,,,,
+Columbia College - Hunter Army Airfield,,,8112,8112,,,24000,10034,,,,
+Columbia College - NSB Kings Bay,,,8112,8112,,,24000,10034,,,,
+Dalton State College,,,3683,10589,0.664,0.477,13200,5500,88.35,3.36,0.65,10.91
+East Georgia State College,,,3136,9488,0.6098,0.5888,11500,5500,63.52,32.4,0.75,3.85
+East Georgia State College - Augusta,,,4210,10562,,,11500,5500,,,,
+East Georgia State College - Statesboro,,,4614,10966,,,11500,5500,,,,
+Fortis College-Smyrna,,,14630,14630,0.1786,0.7197,12139,5500,55.62,38.42,2.16,4.19
+Georgia Highlands College,,,3344,9696,0.5166,0.4154,11104,5500,83.65,11.43,0.97,4.7
+Georgia Military College,,,6615,6615,0.2256,0.3676,8694,4881,,,,
+Georgia Military College - Albany,,,6210,6210,,,8694,4881,,,,
+Georgia Military College - Augusta,,,6165,6165,,,8694,4881,,,,
+Georgia Military College - Columbus,,,6210,6210,,,8694,4881,,,,
+Georgia Military College - Dublin,,,6210,6210,,,8694,4881,,,,
+Georgia Military College - Eastman,,,6210,6210,,,8694,4881,,,,
+Georgia Military College - Fairburn,,,6210,6210,,,8694,4881,,,,
+Georgia Military College - Fayetteville,,,6210,6210,,,8694,4881,,,,
+Georgia Military College - Madison,,,6210,6210,,,8694,4881,,,,
+Georgia Military College - Robins,,,6210,6210,,,8694,4881,,,,
+Georgia Military College - Sandersville,,,6210,6210,,,8694,4881,,,,
+Georgia Military College - Stone Mountain,,,6210,6210,,,8694,4881,,,,
+Georgia Military College - Valdosta,,,5850,5850,,,8694,4881,,,,
+Georgia Military College - Zebulon,,,6210,6210,,,8694,4881,,,,
+Gupton Jones College of Funeral Service,,,11970,11970,,0.7046,16042,6333,53.7,38.98,2.51,6.1
+Gwinnett College-Lilburn,,,9925,9925,,0.8333,17605,5408,66.16,21.56,5.96,9.66
+Helms College,,,13460,13460,1,0.814,9500,4645,,,,
+Institute of Medical Ultrasound,,,28100,28100,,0.64,16167,PrivacySuppressed,,,,
+Interactive College of Technology-Chamblee,,,10250,10250,0.2381,0.7183,10711,6705,57.11,29.98,5.35,11.25
+Interactive College of Technology-Gainesville,,,10850,10850,,0.8462,10711,6705,57.11,29.98,5.35,11.25
+Interactive College of Technology-Morrow,,,10850,10850,,0.6733,10711,6705,57.11,29.98,5.35,11.25
+Miami Ad School-Atlanta,,,19400,19400,,0.2857,21250,9500,72.42,19.14,3.26,6.94
+National American University-Kings Bay,,,6075,6075,,0.3871,24384,12497,,,,
+South Georgia State College,,,3310,9662,0.6698,0.5456,11949,5500,,,,
+South University-Savannah,,,17014,17014,0.5591,0.5238,25379,9500,65.22,28.56,1.74,6.61
+South University-Savannah Online,,,13594,13594,0.0674,0.6694,25379,9500,,,,
+Strayer University - Macon Campus,,,13515,13515,,,40023,10130,,,,
+Strayer University-Augusta Campus,,,13515,13515,,,40023,10130,,,,
+Strayer University-Cobb Campus,,,13515,13515,,,40023,10130,,,,
+Strayer University-Columbus,,,13515,13515,,,40023,10130,,,,
+Strayer University-Douglasville Campus,,,13515,13515,,,40023,10130,,,,
+Strayer University-Georgia,,,13515,13515,0.1163,0.7883,40023,10130,,,,
+Strayer University-Lithonia Campus,,,13515,13515,,,40023,10130,,,,
+Strayer University-Morrow Campus,,,13515,13515,,,40023,10130,,,,
+Strayer University-Roswell Campus,,,13515,13515,,,40023,10130,,,,
+Strayer University-Savannah Campus,,,13515,13515,,,40023,10130,,,,
+The Art Institute of Atlanta,,,19354,19354,0.2353,0.686,30750,9834,61.29,30.12,3.43,6.39
+Middle Georgia State University,0.9932,,4060,11407,0.8128,0.454,19564,7500,,,,
+Reinhardt University,0.9869,1073,25228,25228,0.4253,0.4,24000,8250,85.69,8.37,1.62,6
+Brewton-Parker College,0.9814,,18900,18900,1,0.3604,25500,8125,66.66,27.89,1.13,5.08
+Covenant College,0.9755,1209,36710,36710,1,0.2051,23430,11000,83.78,10.46,1.76,5.15
+Truett McConnell University,0.9729,1052,21938,21938,1,0.1019,24111,7500,80.95,13.85,1.48,4.93
+Life University,0.9681,1003,13596,13596,0.6526,0.3914,16801,6333,75.83,16.47,2.54,8.33
+College of Coastal Georgia,0.9594,1006,3933,10839,0.8239,0.3994,16000,5500,69.1,27.07,0.81,3.28
+Georgia Gwinnett College,0.9451,,4948,13734,0.7921,0.5141,20467,8251,,,,
+Herzing University-Atlanta,0.9247,,14200,14200,0.2558,0.7235,22052,6747,56.44,35.21,2.58,9.5
+Brenau University,0.9219,1047,31720,31720,0.5421,0.4715,28063,9500,71.71,21.09,2.52,6.55
+Georgia Southern University,0.9117,1083,6485,17539,0.837,0.3638,23250,9542,68.61,26.11,1.91,4.09
+Georgia College & State University,0.8594,1194,9524,28704,0.8315,0.187,22500,8750,71.56,23.37,2.21,3.53
+Kennesaw State University,0.8311,1117,6436,17690,0.6448,0.3359,24000,9500,,,,
+Augusta University,0.8288,1121,9022,24400,0.7141,0.3858,21385,7750,,,,
+Georgia State University,0.8239,1147,9286,24517,0.796,0.4934,21500,8310,59.94,31.85,3.45,6.38
+University of North Georgia,0.8145,1097,4976,14481,0.7517,0.2982,18750,5882,,,,
+Gordon State College,0.7878,986,3789,10695,0.6409,0.4887,16450,5827,61.98,33.7,1.53,3.2
+Valdosta State University,0.7845,1072,6583,17638,0.7191,0.5081,25000,10500,67.91,27.14,1.56,3.98
+Columbus State University,0.7832,1007,6241,17295,0.6452,0.4452,25880,10250,60.22,34.75,1.53,3.83
+Mercer University,0.7816,1285,37808,37808,0.9587,0.3326,25000,11250,67.51,26.83,2.09,4.57
+Georgia State University-Perimeter College,0.7806,,3360,9712,0.6445,0.465,21500,8310,53.41,37.75,3.88,6.6
+Savannah College of Art and Design,0.7792,,38075,38075,0.8497,0.1955,25000,6667,78.77,14.19,2.81,6.38
+University of West Georgia,0.7762,1012,6521,17576,0.8098,0.4532,24026,8250,71.51,23.6,1.54,3.94
+Berry College,0.7722,,37946,37946,0.7721,0.227,23987,5500,80.5,13.44,2.2,5.07
+Morehouse College,0.7707,,29468,29468,0.9648,0.4777,25000,11000,43.49,45.24,3.77,9.78
+Abraham Baldwin Agricultural College,0.7599,1000,3565,10471,0.8138,0.3891,17500,5500,67.88,27.46,0.72,4.8
+Paine College,0.7499,899,14595,14595,0.7674,0.8304,30747,10250,45.27,49.34,1.62,4.27
+Georgia Southwestern State University,0.734,1040,5464,16186,0.7173,0.3799,20100,7500,57.24,39.14,0.95,3.08
+Albany State University,0.7302,858,5934,16656,0.744,0.6622,26487,9000,43.48,51.98,1.39,3.56
+Fort Valley State University,0.7232,,5832,16554,0.7452,0.751,31000,11000,47.05,47.65,1.5,4.69
+Shorter University,0.7093,1071,22810,22810,0.5496,0.3859,25598,7147,66.99,26.91,1.98,5.06
+Piedmont University,0.7008,1085,27520,27520,0.3618,0.4295,25000,8750,82.39,12.42,1.7,4.79
+Clayton State University,0.6854,,5568,16290,0.6432,0.5079,26865,11000,48.01,45.36,2.62,4.72
+Agnes Scott College,0.6752,,44250,44250,0.7059,0.407,26737,9375,68.84,22.99,3.21,6.65
+Oglethorpe University,0.6693,1203,41160,41160,1,0.3668,26000,9250,65.88,25.32,3.72,6.7
+Young Harris College,0.6503,1065,29667,29667,0.5118,0.2282,27000,6261,86.49,9.3,1.33,3.48
+Wesleyan College,0.5981,1052,25190,25190,1,0.3581,25125,6563,64.05,30.69,1.62,4.75
+LaGrange College,0.5967,1077,32370,32370,1,0.4243,26000,8750,70.41,25.26,1.44,3.46
+Clark Atlanta University,0.5905,974,21695,21695,0.6277,0.6875,27000,9500,45.17,42.16,4.03,11.39
+Andrew College,0.5864,993,19172,19172,0.7778,0.5952,12000,5500,65.71,29.09,1.56,4.9
+Toccoa Falls College,0.5773,,21120,21120,0.3836,0.2864,22009,5500,84.34,10.58,1.61,4.65
+Emmanuel College,0.5275,1005,21220,21220,0.5529,0.3935,24728,8366,75.91,19.88,1.02,3.24
+Spelman College,0.5258,1129,29972,29972,0.7276,0.4269,26000,12984,47.02,41.84,3.7,9.53
+University of Georgia,0.4838,1384,12080,31120,0.9269,0.196,18625,11000,74.88,18.57,2.78,4.96
+Savannah State University,0.4614,925,5902,16624,0.7788,0.6976,29313,10556,47.53,47.09,1.78,4.1
+Luther Rice College & Seminary,0.4444,,8448,8448,0.6829,0.5232,30478,11540,62.59,31.87,1.96,4.1
+DeVry University-Georgia,0.3981,,17712,17712,0.1127,0.5944,28308,8409,,,,
+Chamberlain University-Georgia,0.3529,,19469,19469,0.1204,0.4803,22204,11749,,,,
+Point University,0.3487,1007,21850,21850,0.1343,0.2792,24927,6882,69.9,25.06,1.7,4.4
+Thomas University,0.3452,881,16970,16970,0.3934,0.3094,22250,8251,60.82,36.05,0.64,2.95
+Emory University-Oxford College,0.2417,1440,53868,53868,0.9429,0.1668,16556,8008,,,,
+Georgia Institute of Technology-Main Campus,0.2134,1465,12852,33964,0.903,0.1321,22250,15750,75.64,16.5,3.58,6.98
+Emory University,0.1917,1459,53868,53868,0.751,0.1888,16556,8008,74.86,15.89,4.39,7.48
