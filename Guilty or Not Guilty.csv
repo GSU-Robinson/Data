@@ -1,0 +1,84 @@
+Case Id,Defendant Name,Num_of_Codefendants,Defendant_Age,Defendant_Sex,Num_of_Attorneys,Num_of_Charges,Witness_Testimony,Method,Priors,Prosecutor,Num_of_Victims,Verdict
+4900191,Antonio Walker,0,30,1,3,14,1,3,1,14,1,Guilty
+4900199,Andre Lawrence,1,16,1,2,5,1,1,1,15,1,Guilty
+4900203,Jesus Manzano,0,27,1,4,2,1,1,1,2,1,Guilty
+4900673,Stacey Humphreys,0,30,1,6,11,1,1,1,16,2,Guilty
+4901186,Rodgerick Swanson,0,42,1,2,13,1,2,1,11,2,Guilty
+4904319,Aaron Willis,0,21,1,3,7,1,1,1,18,1,Guilty
+4904974,Donovan Leger,0,33,1,2,5,1,2,1,2,1,Not Guilty
+6902974,Sonya Yvette Smith,1,39,0,4,14,0,3,1,16,1,Guilty
+6903363,Colton Williams,5,16,1,2,7,1,1,0,2,2,Guilty
+7900473,Eliot Ellerton Jeffers,1,30,1,4,6,0,2,1,20,2,Guilty
+7901329,William Brian Hughes,0,32,1,2,3,1,3,1,21,1,Guilty
+7901990,Natasha Wynetta Demery,0,41,0,2,5,1,1,1,1,1,Guilty
+7902004,Mario Hodges,0,40,1,2,9,1,1,1,22,1,Guilty
+7902824,Christian Javon Wornum,0,18,1,2,6,0,1,1,19,1,Guilty
+7903516,Ricky Heard,4,15,1,5,18,1,1,1,2,2,Guilty
+7904433,Ernest Lee Walker,0,23,1,5,6,1,2,1,23,1,Guilty
+7906020,Amos Westmoreland,1,31,1,2,15,0,2,1,25,1,Guilty
+7906233,Craig Willis Stevenson,1,27,1,2,3,1,3,1,26,1,Guilty
+8900036,Robert Bella Devega,0,26,1,4,7,1,1,1,2,1,Guilty
+8901597,Mathew Wilkins,0,21,1,4,4,1,2,1,2,1,Guilty
+8902013,Joshua Kevin Drucker,1,33,1,6,14,1,1,1,20,2,Guilty
+8902175,Alexis Javier Avila,0,28,1,2,4,0,1,1,2,1,Guilty
+8902381,Madonna Whitus,0,43,0,4,8,1,3,1,2,1,Guilty
+8902991,Roger Shannon Brown,0,33,1,4,8,1,3,1,15,1,Guilty
+8904659,Andrew Markus Foster,0,26,1,3,5,0,1,1,2,1,Guilty
+8905065,Myrone Latrone Bailey,2,30,1,4,9,1,1,1,3,1,Guilty
+8905793,Eduardo Sifuentes,3,22,1,4,13,1,1,1,2,1,Guilty
+8905822,Brian Antoine Berry,2,24,1,3,7,1,3,0,27,1,Not Guilty
+10900349,Rayshawn White,1,18,1,3,4,1,1,0,1,1,Guilty
+10900998,Rolaunda Bridget Fripp,5,30,0,3,15,1,1,0,2,2,Guilty
+10901247,Soto Armando,1,46,1,2,6,1,1,1,3,1,Guilty
+10904634,Rickardo Delarno,0,28,1,3,3,1,2,1,4,1,Not Guilty
+11902976,Jerry Wayne Lovings,0,55,1,3,5,1,1,1,3,1,Guilty
+11903705,Harvery Hogans,2,27,1,2,8,0,1,1,5,1,Guilty
+11903904,Jahbari Jones,0,18,1,2,6,1,1,1,3,1,Guilty
+11904375,Jelani Asim Anthony,1,35,1,3,6,0,1,1,3,1,Guilty
+12900259,Orville Francisco Cotto Rivera,0,32,1,2,4,1,2,1,6,1,Guilty
+12901047,Rosano Bundel,0,28,1,2,4,0,1,1,2,1,Guilty
+12901341,Joshua Ferneal Arnold,1,23,1,3,22,1,1,1,2,2,Guilty
+12902004,Javin Rashad Andrews,1,15,1,2,8,1,1,1,7,1,Guilty
+12902375,Dequontist Marquez Lucas,0,28,1,2,12,0,1,1,1,1,Guilty
+12902764,Deron Maurice Williams,0,39,1,3,12,0,3,1,3,1,Guilty
+12903029,Darius Dionne Oliver,0,18,1,3,7,1,1,1,3,1,Guilty
+13901142,Patrick Lamar Burr,0,41,1,1,4,1,1,1,3,1,Guilty
+13901223,Ricardo Laron Harris,0,35,1,2,4,1,3,1,4,1,Guilty
+13901337,Derrick Mclaurence Williams,0,32,1,3,4,1,3,1,3,1,Guilty
+13902104,Percy Burdine,2,31,1,3,8,1,1,1,5,1,Guilty
+13902105,Melissa Blue,0,48,0,2,6,1,3,0,2,1,Not Guilty
+13902563,Joseph Ricky Hampton,2,48,1,1,5,1,1,1,2,1,Guilty
+13903669,Kemonta Deandre Bonds,3,22,0,1,13,1,3,1,2,1,Not Guilty
+13904779,Khalil James Kelly,1,17,1,3,12,1,1,1,2,1,Guilty
+14900253,Isadore Walker Barboza,1,46,1,2,13,0,1,1,2,2,Guilty
+14902269,Nehemiah Anglin,1,21,1,2,7,1,1,1,2,1,Guilty
+14902646,Harold Antonio Parks,0,42,1,2,5,1,1,1,3,1,Guilty
+14903124,Justin Harris,0,25,1,4,8,1,3,0,8,1,Guilty
+14903412,Lewarner Jaron Scott,0,29,1,4,8,1,1,1,3,3,Guilty
+14903839,Johnathan Wheeler,0,31,1,3,7,0,2,1,2,1,Guilty
+14904391,David Junior Reid,0,26,1,3,9,0,1,1,3,1,Not Guilty
+14904449,James Lorenzo Randolph,0,32,1,2,7,1,1,1,9,1,Guilty
+15900956,Joshua Molder,0,24,1,4,10,1,1,1,2,1,Guilty
+15901405,Casey Collins,0,30,1,4,9,0,3,1,3,1,Guilty
+15901619,Jordan Baker,2,26,1,1,11,1,1,1,2,1,Guilty
+15902926,Lintrel Gibert,0,17,1,1,4,0,2,0,10,1,Not Guilty
+15903909,Justin Graves,0,42,1,2,7,1,1,1,2,1,Guilty
+15904028,Roy Brown,0,24,1,3,14,1,1,1,2,2,Guilty
+15904685,Darius Dunn,2,24,1,3,9,0,1,1,2,1,Guilty
+16902158,Walter Melbourne,2,30,1,1,15,1,1,1,11,1,Guilty
+16902814,Joshua Gibson,0,29,1,2,11,0,1,1,2,1,Guilty
+17901940,Dwight Blalock Jr,0,35,1,5,9,1,1,1,2,1,Guilty
+17903330,Joseph Priester,0,36,1,1,5,0,1,1,12,1,Guilty
+17904276,Landon Terrel,0,35,1,1,5,1,3,1,6,1,Not Guilty
+18900208,Francisco Madera,0,31,1,1,3,1,1,1,13,1,Guilty
+19900975,Demarious Greene,1,23,1,2,12,1,1,1,2,1,Guilty
+4902630,Deborah Joyce,0,31,0,3,3,1,1,0,17,1,Not Guilty
+6900106,Raphael Marcus Hood,0,45,1,6,6,1,1,1,19,1,Not Guilty
+6903363,Robert Watkins,5,18,1,3,7,1,1,0,2,2,Not Guilty
+6903363,Marcus Brown,5,18,1,1,7,1,1,0,2,2,Not Guilty
+6903363,Terrance Coleman,5,18,1,1,7,1,1,0,2,2,Not Guilty
+6903363,Christina Pascarella,5,15,0,3,7,1,1,0,2,2,Not Guilty
+6903363,Maya Keating,5,14,0,3,7,1,1,0,2,2,Not Guilty
+7904660,Timothy Ray,2,24,1,1,6,1,1,1,24,1,Not Guilty
+7904660,Travis Moore,2,22,1,2,6,1,1,1,24,1,Not Guilty
+7904660,Montrell Hook,2,23,1,2,6,1,1,0,24,1,Not Guilty
